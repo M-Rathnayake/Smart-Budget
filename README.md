@@ -33,3 +33,5 @@ o Optional reminders to record daily expenses.
 • Use of SharedPreferences for data persistence.
 • Implemented Internal Storage for backup functionality.
 • Notifications are implemented using Android’s Notification Manager.
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-Used-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
