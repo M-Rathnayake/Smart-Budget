@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">testfin</string>
+    <string name="Title" ></string>
+    <string name="backup">Backup and Restore\n</string>
+    <string name="recent_backups">Recent Backups</string>
+    <string name="no_backup">No backups created yet</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="progress">Budget Progress</string>
+    <string name="category_topic">Spending by Category</string>
+    <string name="category_sub">Track where your money goes</string>
+    <string name="pie_expenses">Expenses</string>
+    <string name="pie_income">Income</string>
+    <string name="Name">Name</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="signIn">Sign In</string>
+    <string name="googleSignIn">Sign in with Google</string>
+    <string name="signUp">Sign Up</string>
+
+</resources>

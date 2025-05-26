@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--text colors-->
+    <color name="textPrimary">#333333</color>
+    <color name="textSecondary">#666666</color>
+
+    <!--Main colors-->
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="cardStroke">#E0E0E0</color>
+    <color name="colorSecondary">#E69500</color>
+    <color name="colorAccent">#ffa500</color>
+    <color name="colorBackground">#FAFAFA</color>
+
+    <color name="expenseColor">#F44336</color>
+    <color name="incomeColor">#4CAF50</color>
+    <color name="warningColor">#FFA000</color>
+
+</resources>
