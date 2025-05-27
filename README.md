@@ -1,4 +1,3 @@
-- ✅ **Kotlin**
 ## Smart Budget
 Smart Budget is a user-friendly Kotlin-based finance tracker app designed to help you manage income, expenses, and savings effortlessly. With five intuitive tabs—Dashboard (financial overview), Transactions (add transactions based on categories/edit/delete transactions), Categories (custom spending groups), Budget (set monthly budget limits with alerts), and Backup (secure data export/import)—it ensures organized money management. The app meets all IT2010 Lab Exam 03 requirements, including SharedPreferences for data persistence, Internal Storage for backups, and Notifications for budget warnings. Simple, functional, and clean, Smart Budget turns financial tracking into a seamless habit.
 
